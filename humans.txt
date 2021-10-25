@@ -1,0 +1,3 @@
+/* TEAM */
+Thanks to Yosef Langer for the role of Full Stack Developer.
+Thanks to Gem Plan Team at www.gemplan.co.il for the role of Designer.
